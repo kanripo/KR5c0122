@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:27:03.535815
+# -*- mode: mandoku-view -*-
 #+TITLE: 沖虛至德真經義解
-#+PROPERTY: DZID  DZ0731
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，14—903 六卷 洞神部玉訣類
+#+DATE: 2015-08-29 00:27:05
+#+PROPERTY:  LASTPB <PB KR5c0122_SJB_006-140930a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶<md:KR5c0122_HFL_006-011b>¶¶¶¶¶¶¶¶¶¶¶¶
+
